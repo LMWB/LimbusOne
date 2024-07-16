@@ -2,7 +2,7 @@
 Custom Microcontroller Board based on STM32F042-Series
 
 ![front](/Images/LimbusOne1.png)
-![back](/Images/LimbusOne1.png)
+![back](/Images/LimbusOne2.png)
 ![top](/Images/LimbusOne3.png)
 ![schematics](/Images/LimbusOne.pdf)
 
