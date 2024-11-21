@@ -17,7 +17,7 @@ Custom Microcontroller Board based on STM32F042-Series
     - works with standard (11-Bit) and extended (29-Bit) CAN identifier
 - Industrial ready Modbus interface
 - USB mini as power supply AND DATA
-    - unfortunately USB and CAn share same Pin's so the user has to decide what to use
+    - unfortunately USB and CAN share same Pin's so the user has to decide what to use
 - 2.54mm Pin Headers for debugging and tracing
 - debug / programming interface according to STLink that comes with most of STM32 Nucleo Boards
 
