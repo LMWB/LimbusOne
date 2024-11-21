@@ -1,0 +1,1 @@
+here you can find the KiCad EDA project files
